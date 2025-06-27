@@ -16,8 +16,6 @@ It’s the perfect tool for:
 - Professionals sending newsletters, updates, or invitations
 - Anyone who needs to send bulk emails without technical hassle
 
-The program includes a license system that works even offline after initial activation.
-
 It also checks for available updates automatically, so you're always using the latest version.
 
 > No complex setup. No technical knowledge required. Just prepare your contact list and your message — EmailFlow takes care of the rest.
@@ -40,8 +38,6 @@ Con pochi passaggi permette di:
 - Aziende, uffici e organizzazioni che inviano comunicazioni a gruppi di persone
 - Professionisti che inviano newsletter, inviti o comunicazioni periodiche
 - Chiunque voglia gestire facilmente l’invio multiplo di email senza complicazioni
-
-Il programma include un sistema di licenza che consente l’utilizzo anche senza connessione internet, dopo l’attivazione iniziale.
 
 Inoltre, verifica automaticamente la disponibilità di nuove versioni per garantire un’esperienza sempre aggiornata.
 
