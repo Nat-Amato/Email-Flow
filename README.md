@@ -1,4 +1,4 @@
-# EmailFlow - Version 3.6
+# EmailFlow - Version 4.1
 
 **EmailFlow** is a desktop application designed to simplify and streamline the process of sending personalized emails to multiple recipients.
 
@@ -21,7 +21,7 @@ It also checks for available updates automatically, so you're always using the l
 > No complex setup. No technical knowledge required. Just prepare your contact list and your message — EmailFlow takes care of the rest.
 
 
-# EmailFlow - Versione 3.6
+# EmailFlow - Versione 4.1
 
 **EmailFlow** è un'applicazione pensata per semplificare l’invio massivo di email personalizzate in modo rapido, ordinato e professionale.
 
