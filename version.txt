@@ -1,2 +1,2 @@
-3.6
-https://github.com/Nat-Amato/Email-Flow/releases/download/v3.6/EmailFlowInstaller.exe
+4.1
+https://github.com/Nat-Amato/Email-Flow/releases/download/v4.1/EmailFlowInstaller.exe
