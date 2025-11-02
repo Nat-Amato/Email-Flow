@@ -1,2 +1,2 @@
 5.1
-https://chiarazzofoodgroup.com/distEmailFlow/EmailFlowInstaller.exe
+https://github.com/Nat-Amato/Email-Flow/releases/download/v5.2/EmailFlowInstaller.exe
